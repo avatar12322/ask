@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "type": "module",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "type": "module",
+    "core-js": "^3.35.0"
+  }
+}
