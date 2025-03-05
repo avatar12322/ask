@@ -1,1 +1,1 @@
-Prosty procesor 8060
+Prosty Asembler procesora intel 8086
